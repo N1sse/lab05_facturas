@@ -1,0 +1,7 @@
+factura\Gastos.class
+view\FacturasCanvas.class
+view\SistemaFacturas.class
+com\mycompany\facturasprofesional\FacturasProfesional.class
+controller\Controller.class
+view\FacturasFrame.class
+factura\Ingresos.class
